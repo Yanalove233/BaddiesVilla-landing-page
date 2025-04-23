@@ -1,4 +1,4 @@
-body {
+
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   background-color: #000;
@@ -71,5 +71,4 @@ footer {
   padding: 1rem;
   background: #5910E5;
   color: white;
-  margin-top: 2rem;
-}
+  margin-top: 2rem
